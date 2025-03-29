@@ -1,16 +1,39 @@
-# tic_tac_toe
+# Tic Tac Toe (Flutter Sample App)
 
-This is tic_tac_toe game.
+This is a simple Tic Tac Toe game built using Flutter. It is my first Flutter project, designed to practice UI development and state management.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+- Classic local Tic Tac Toe game
+- Simple and intuitive UI
+- Real-time game state updates
+- Clear button to restart the game
 
-A few resources to get you started if this is your first Flutter project:
+# Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/tomgly/tic-tac-toe.git
+cd tic-tac-toe-flutter
+```
+
+2. Install dependencies
+
+```
+flutter pub get
+```
+
+3. Run the app
+
+```
+flutter run
+```
+
+# Technologies Used
+
+- **Flutter**: For UI development
+- **Dart**: Programming language
+
+# License
+This project is open-source and available under the [MIT License](LICENSE).
